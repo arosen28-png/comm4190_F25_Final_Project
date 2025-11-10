@@ -1,6 +1,6 @@
 # 🧭 Career Compass — AI Career Advisor
 
-## Idea Pitch (100–150 words)
+## Idea Pitch
 Career Compass is an AI-powered career advisor that helps individuals navigate transitions, skill development, and job market opportunities. Using large language models (LLMs), it synthesizes information from job listings, resumes, and skill taxonomies to provide personalized insights. The tool offers resume feedback, skill-gap identification, learning-path recommendations, and mock interview simulations. Unlike static quizzes or keyword job boards, Career Compass holds a reflective conversation to help users craft a coherent professional narrative linking experiences to goals. With a persistent user profile and structured prompts, it delivers targeted suggestions and artifacts (cover letters, interview prep, achievement bullets) that evolve with user input, ultimately reducing uncertainty and accelerating progress toward desired roles.
 
 ## Target Users
@@ -34,8 +34,6 @@ Career Compass is an AI-powered career advisor that helps individuals navigate t
 ---
 
 # Usage Scenarios
-
-## Member: <Your Name>
 
 ### Scenario A — Short Description
 “From resume dump to skill map & target roles”
